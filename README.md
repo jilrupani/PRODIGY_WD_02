@@ -27,6 +27,7 @@ This project is a simple, personal stopwatch web application built using HTML, C
   - **Lap Time**: Click the "Lap" button to record and display lap times.
 
 **License**
-This project is licensed under the MIT License.
+This project is licensed under the MIT [License](https://jilrupani.github.io/PRODIGY_WD_02/LICENSE).
 
 **Live Demo**:
+https://jilrupani.github.io/PRODIGY_WD_02/StopWatch.html
