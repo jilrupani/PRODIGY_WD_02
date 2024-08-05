@@ -31,3 +31,9 @@ This project is licensed under the MIT [License](https://jilrupani.github.io/PRO
 
 **Live Demo**:
 https://jilrupani.github.io/PRODIGY_WD_02/StopWatch.html
+
+**Task-output-picture :**
+
+![2 1](https://github.com/user-attachments/assets/b9aff9d6-163e-4618-b5d9-3a892623af85)
+![2 2](https://github.com/user-attachments/assets/4de44ae5-8626-4ddd-a4f9-ac1035c45ca3)
+![2 3](https://github.com/user-attachments/assets/98a590fc-770d-4c69-9292-0fe48441f6cd)
